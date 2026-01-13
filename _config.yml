@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile_2.png"
   name             : "Alireza Danaei"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
@@ -35,7 +35,7 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=FnAC9cUAAAAJ&hl=en"
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : "https://orcid.org/yourorcidurl"
